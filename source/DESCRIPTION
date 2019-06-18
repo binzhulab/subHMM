@@ -1,0 +1,12 @@
+Package: subHMM
+Title: The SubHMM Model for Identifying Tumor Subclones
+Version: 0.0.8
+Date: 2018-11-13
+Author: Bin Zhu, Paul Albert, Hyoyoung Choo-Wosoba 
+Description: A Hidden Markov Modeling Approach for Identifying Tumor Subclones in Next-Generation Sequencing Studies.
+Maintainer: Bill Wheeler <wheelerb@imsweb.com>
+Imports: stats, utils, stringr, numDeriv
+Suggests: graphics, grDevices
+License: GPL-2
+NeedsCompilation: yes
+Packaged: 2018-11-13 20:46:01 UTC; wheelerwi
